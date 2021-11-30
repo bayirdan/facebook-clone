@@ -270,7 +270,7 @@ const pe = { class: "__logo" },
       );
     },
   };
-var x = "./assets/pp.1ddc5e20.jpg";
+var x = "./assets/images/pp.jpg";
 const he = {},
   fe = {
     fill: "currentColor",
@@ -484,17 +484,17 @@ const Ue = {
     },
   },
   ot = [
-    { title: "Elliot Anderson", route: "/src/assets/images/pp.jpg" },
-    { title: "Friends", route: "/src/assets/images/png/friends.png" },
-    { title: "Groups", route: "/src/assets/images/png/groups.png" },
-    { title: "Marketplace", route: "/src/assets/images/png/marketplace.png" },
-    { title: "Watch", route: "/src/assets/images/png/watch.png" },
-    { title: "Memories", route: "/src/assets/images/png/memories.png" },
-    { title: "Saved", route: "/src/assets/images/png/saved.png" },
-    { title: "Pages", route: "/src/assets/images/png/pages.png" },
-    { title: "Events", route: "/src/assets/images/png/events.png" },
-    { title: "Jobs", route: "/src/assets/images/png/jobs.png" },
-    { title: "Most Recent", route: "/src/assets/images/png/mostRecent.png" },
+    { title: "Elliot Anderson", route: "./assets/images/pp.jpg" },
+    { title: "Friends", route: "./assets/images/png/friends.png" },
+    { title: "Groups", route: "./assets/images/png/groups.png" },
+    { title: "Marketplace", route: "./assets/images/png/marketplace.png" },
+    { title: "Watch", route: "./assets/images/png/watch.png" },
+    { title: "Memories", route: "./assets/images/png/memories.png" },
+    { title: "Saved", route: "./assets/images/png/saved.png" },
+    { title: "Pages", route: "./assets/images/png/pages.png" },
+    { title: "Events", route: "./assets/images/png/events.png" },
+    { title: "Jobs", route: "./assets/images/png/jobs.png" },
+    { title: "Most Recent", route: "./assets/images/png/mostRecent.png" },
   ],
   rt = {},
   nt = {
@@ -648,7 +648,7 @@ var b = i(Vt, [["render", Zt]]);
 const G = [
     {
       name: "Angela Moss",
-      route: "/src/assets/images/angela-pp.jpg",
+      route: "./assets/images/angela-pp.jpg",
       post: {
         title:
           "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae inventore assumenda nulla temporibus ea ",
@@ -656,14 +656,14 @@ const G = [
         like: "128",
         comment: {
           name: "Tyrell Wellick",
-          route: "/src/assets/images/tyrell-pp.jpg",
+          route: "./assets/images/tyrell-pp.jpg",
           text: "Lorem ipsum dolor.",
         },
       },
     },
     {
       name: "Tyrell Wellick",
-      route: "/src/assets/images/tyrell-pp.jpg",
+      route: "./assets/images/tyrell-pp.jpg",
       post: {
         title:
           "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae inventore assumenda nulla temporibus ea tempore nihil praesentium necessitatibus vel quia!",
@@ -671,14 +671,14 @@ const G = [
         like: "63",
         comment: {
           name: "Angela Moss",
-          route: "/src/assets/images/angela-pp.jpg",
+          route: "./assets/images/angela-pp.jpg",
           text: "Lorem ipsum dolor sit amet consectetur.",
         },
       },
     },
     {
       name: "Darlene Alderson",
-      route: "/src/assets/images/darlene-pp.jpg",
+      route: "./assets/images/darlene-pp.jpg",
       post: {
         title:
           "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae inventore assumenda nulla temporibus ea tempore nihil praesentium necessitatibus vel quia!",
@@ -686,14 +686,14 @@ const G = [
         like: "99",
         comment: {
           name: "DiPierro",
-          route: "/src/assets/images/dominique-pp.jpg",
+          route: "./assets/images/dominique-pp.jpg",
           text: "Lorem ipsum dolor sit amet.",
         },
       },
     },
     {
       name: "Dominique DiPierro",
-      route: "/src/assets/images/dominique-pp.jpg",
+      route: "./assets/images/dominique-pp.jpg",
       post: {
         title:
           "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae inventore assumenda nulla temporibus ea tempore nihil praesentium necessitatibus vel quia!",
@@ -701,7 +701,7 @@ const G = [
         like: "135",
         comment: {
           name: "Darlene Alderson",
-          route: "/src/assets/images/darlene-pp.jpg",
+          route: "./assets/images/darlene-pp.jpg",
           text: "Lorem ipsum.",
         },
       },
