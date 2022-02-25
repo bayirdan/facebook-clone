@@ -1,6 +1,6 @@
 # Facebook Template - Responsive
 
-This template is responsive designed by me. 
+This template is designed to be fully responsive, including mobile. Used Vue as JS framework and used Tailwind for style.
 
 ### Project Setup
 
